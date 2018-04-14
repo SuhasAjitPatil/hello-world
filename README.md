@@ -1,2 +1,5 @@
 # hello-world
-Sample Repository
+
+Hello,
+
+This is a sample repository to learn functioning of GitHub.
